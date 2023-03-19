@@ -353,11 +353,3 @@ Wie schwer muss ein Stern mindestens sein, um nach einer Supernova-Explosion zu 
 [[ ]] Etwa 4 Sonnenmassen
 [[X]] Etwa 1,5-3 Sonnenmassen
 [[ ]] Mehr als etwa 3 Sonnenmassen
-
-Was entsteht aus einem massereichen Stern, der bei seiner Supernova-Explosion nicht genügend Masse abwirft, um ein Neutronenstern zu werden?
-
-<!-- data-solution-button="off" -->
-[[ ]] Ein Weißer Zwerg
-[[ ]] Ein Roter Riese
-[[ ]] Ein Pulsar
-[[X]] Ein Schwarzes Loch
